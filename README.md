@@ -7,4 +7,4 @@ how to install & use :
 3. php duar.php
 4. input u target and enjoy
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/77189271/110248283-d3d03800-7fa2-11eb-998c-c084729f4d8c.png)
